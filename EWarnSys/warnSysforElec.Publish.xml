@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Emilia\Desktop\EWarnSys" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/03/2017 10:09:38" />
+    <file relUrl="Site.Master" publishTime="12/03/2017 09:06:40" />
+    <file relUrl="DB/db.txt" publishTime="11/12/2017 18:49:37" />
+    <file relUrl="Account/Register.aspx" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Sound/REC20171203094954.mp3" publishTime="12/03/2017 09:51:20" />
+    <file relUrl="bin/warnSysforElec.pdb" publishTime="12/07/2017 20:52:59" />
+    <file relUrl="Sound/REC20171203094935.mp3" publishTime="12/03/2017 09:53:29" />
+    <file relUrl="Sound/REC20171203090148.mp3" publishTime="12/03/2017 09:10:11" />
+    <file relUrl="Account/Web.config" publishTime="11/27/2017 12:24:29" />
+    <file relUrl="Account/Login.aspx" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Styles/Site.css" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Sound/IELTS11_Test1_Section2.mp3" publishTime="11/12/2017 16:57:53" />
+    <file relUrl="bin/Ajax.dll" publishTime="09/16/2011 19:07:36" />
+    <file relUrl="Default.aspx" publishTime="12/03/2017 10:04:30" />
+    <file relUrl="Global.asax" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="About.aspx" publishTime="11/12/2017 12:11:13" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="bin/warnSysforElec.dll" publishTime="12/07/2017 20:52:59" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/12/2017 10:45:40" />
+    <file relUrl="Sound/REC20171203093642.mp3" publishTime="12/03/2017 09:38:22" />
+  </publishProfile>
+</publishData>
